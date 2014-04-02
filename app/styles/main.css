@@ -81,3 +81,10 @@ body {
 .touch-action{
   -ms-touch-action: none;
 }
+
+.circles{
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: red;
+}
